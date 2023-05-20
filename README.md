@@ -1,6 +1,9 @@
-# Projekt-IO
+# Zabawkowe Okazje
 ## Opis
-Projekt ma na celu zbudowanie aplikacji webowej, która ma ułatwić zakupy internetowe. Użytkownik po wprowadzeniu danych ręcznie bądź importując plik wyszukuje przedmiotów. Jeżeli przedmioty, których szukał nie były jednoznaczne to aplikacja zasugeruje różne propozycje, na które użytkownik może się zdecydować. Po dokonaniu wyboru strona ponownie wyszuka podanych przedmiotów. Wyniki wyszukiwania zostaną przepuszczone przez algorytm, który wybierze przedmioty najtańsze oraz te z najmniejszej ilości sklepów. Użytkownik będzie mógł pobrać posortowane wyniki, a dodatkowo (jeżeli będzie zalogowany) zobaczyć historię wyszukiwania.
+Projekt "Zabawkowe Okazje" ma na celu zbudowanie aplikacji webowej, która ma ułatwić zakupy internetowe. Użytkownik po wprowadzeniu danych ręcznie bądź importując plik wyszukuje przedmiotów. Jeżeli przedmioty, których szukał nie były jednoznaczne to aplikacja zasugeruje różne propozycje, na które użytkownik może się zdecydować. Po dokonaniu wyboru strona ponownie wyszuka podanych przedmiotów. Wyniki wyszukiwania zostaną przepuszczone przez algorytm, który wybierze przedmioty najtańsze oraz te z najmniejszej ilości sklepów. Użytkownik będzie mógł pobrać posortowane wyniki, a dodatkowo (jeżeli będzie zalogowany) zobaczyć historię wyszukiwania.
+
+## Description
+The project "Zabawkowe Okazje" aims to build a web application to facilitate online shopping. The user, after entering data manually or by importing a file, searches for items. If the items he or she was looking for were not explicit, the application will suggest different suggestions that the user can decide on. Once the selection has been made, the website will search for the specified items again. The search results will be run through an algorithm that will select the cheapest items and those from the least number of shops. The user will be able to download the sorted results and, in addition (if logged in), see the search history.
 
 ### UML działania aplikacji
 #### Wyszukiwanie
